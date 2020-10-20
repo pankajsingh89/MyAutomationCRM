@@ -31,7 +31,7 @@ public class TestBase {
 			e.printStackTrace();
 
 		} catch (IOException e) {
-			e.printStackTrace();
+			e.printStackTrace(); // this is updated
 		}
 	}
 
